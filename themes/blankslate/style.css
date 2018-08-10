@@ -95,9 +95,13 @@ strong {
 	padding: 10px 0px;
 }
 
-.partial-img {
-	max-width: 95%;
-	vertical-align: top;
+#img-link-1, #img-link-2 {
+	display: block;
+	position: relative;
+	width: 80%;
+	left: 7%;
+	height: 5%;
+	top: -13%;
 }
 
 @media screen and (max-width: 991px) {

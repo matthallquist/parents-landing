@@ -88,8 +88,6 @@
 		</div>
 		<div class="col-lg-4 third">
 			<img class="whole-img" src="http://localhost:8888/ctchild/wp-content/uploads/2018/08/OEC-Licns-Web-Parents-05.png">
-			<a id="img-link-1" href="http://search.211childcare.org" style="height: 40px; width: 315px; position: absolute; top: 97px; right: 60px;"></a>
-			<a id="img-link-2" href="tel:211" style="height: 40px; width: 315px; position: absolute; top: 137px; right: 60px;"></a>
 			<h2>Why a License is Important</h2>
 			<p>
 				<strong>Training & Background Checks </strong><br>
