@@ -159,5 +159,9 @@ strong {
 	.col-lg-8 h2 {
 		max-width: 95%;
 	}
+
+	.top-links img {
+		max-width: 40%;
+	}
 }
 /* END MEDIA QUERIES */
