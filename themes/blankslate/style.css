@@ -87,12 +87,16 @@ strong {
 }
 
 .col-lg-4.third {
-	margin-top: 30px;
+	margin-top: 15px;
 }
 
 .whole-img {
 	max-width: 95%;
 	padding: 10px 0px;
+}
+
+.partial-img {
+	max-width: 95%;
 }
 
 #img-link-1, #img-link-2 {

@@ -87,7 +87,9 @@
 			</p>
 		</div>
 		<div class="col-lg-4 third">
-			<img class="whole-img" src="http://localhost:8888/ctchild/wp-content/uploads/2018/08/OEC-Licns-Web-Parents-05.png">
+			<img class="partial-img" src="http://localhost:8888/ctchild/wp-content/uploads/2018/08/linked-img_01.jpg">
+			<a href="http://search.211childcare.org"><img class="partial-img" src="http://localhost:8888/ctchild/wp-content/uploads/2018/08/linked-img_02.jpg"></a>
+			<a href="tel:211"><img class="partial-img" src="http://localhost:8888/ctchild/wp-content/uploads/2018/08/linked-img_03.jpg"></a>
 			<h2>Why a License is Important</h2>
 			<p>
 				<strong>Training & Background Checks </strong><br>
