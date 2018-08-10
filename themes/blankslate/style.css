@@ -162,6 +162,7 @@ strong {
 
 	.top-links img {
 		max-width: 40%;
+		margin: auto 10px auto 0;
 	}
 }
 /* END MEDIA QUERIES */
